@@ -25,7 +25,7 @@
 主要开发环境是Django，工作内容包含后台业务逻辑开发，后台代码重构和优化，前端JS逻辑编写.
 4. 上报统计系统
 开发一个具有统计日志信息，展示，预警功能的系统。   
-[超卡商户后台](http://www.supercard.cc/home/partner_login)(测试帐号/密码：**×××/×××**)      
+[超卡商户后台](http://www.supercard.cc/home/partner_login) (测试帐号/密码：**×××/×××**)           
 [爬虫项目](https://github.com/xxoome/collector)  
 
 #### 结束语
