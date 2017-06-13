@@ -11,15 +11,15 @@
 #### 职业技能
 1. 擅长`Python` & `Javascript` & `C`编程，主要工作语言是`Python `
 2. 熟悉数据结构与算法，如栈，队列，二叉树，图，广义表，哈希表等
-3. 熟练使用Scrapy & requests & selenium等爬虫技术，xpath & 正则等筛选规则，以及多进程，分布式和反爬策略
+3. 熟练使用Scrapy & requests & selenium等爬虫技术,xpath & 正则等筛选规则,以及多进程、分布式和反爬策略
 4. 熟练使用Django框架，可以独立完成后台开发项目和部署(Nginx)
 5. 熟悉Linux系统和常用命令，能快速搭建工作环境
-6. 熟练使用常用开发工具如Sublime,Git,Pycharm,Navicat,VirtualBox,Chrome,Docker
 
 #### 项目经历
 1. 电影票价采集   
-2. 海关总署订单数据采集       
-3. 商户后台开发   
+2. 海关总署订单数据采集   
+3. 美国亚马逊数据采集  
+3. 商户后台开发   
 4. 上报统计系统    
 
 #### 结束语
