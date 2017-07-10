@@ -5,7 +5,7 @@
 - 籍贯：××省××市     
 - 英语水平：CET-6
 - 工作年限：2年
-- 电话&邮箱：131××××4176 | 212956978@qq.com
+- 电话&邮箱：131××××4176 | 1587499106@qq.com
 - Github：[github.com/xxoome](https://github.com/xxoome)     
 
 #### 职业技能
