@@ -12,8 +12,8 @@
 1. 擅长`Python` & `Javascript` & `C`编程，主要工作语言是`Python `
 2. 熟悉`MySQL` & `Redis` & `MongoDB` & `ElasticSearch`等常见数据库  
 3. 熟悉数据结构与算法，如栈，队列，二叉树，图，广义表，哈希表等
-4. 熟练使用Scrapy & requests & selenium等爬虫技术,xpath & 正则等筛选规则,以及多进程、分布式和反爬策略
-5. 熟练使用Django框架，可以独立完成后台开发项目和部署(Nginx)
+4. 熟练使用Scrapy & requests & selenium等爬虫技术
+5. 熟练使用Django框架，可以独立完成后台开发项目
 6. 熟悉Linux系统和常用命令，能快速搭建工作环境
 
 #### 项目经历
